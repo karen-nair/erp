@@ -1,3 +1,7 @@
+##Pre-requisite 
+Php ^8.2
+Composer ^2.2
+
 ## Steps to deploy in localhost
 
 1. rename env.example to env and add in right credentials for your database
